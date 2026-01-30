@@ -1,0 +1,151 @@
+id;categoria;producto;formato_mm;papel;gramaje_g;acabado;cantidad;imprenta;gama;precio_producto;precio_envio;precio_total_sin_iva;precio_total_con_iva;precio_principal;plazo_min_dias;plazo_max_dias;disponible;observaciones
+dipticos-diptico-cerrado-a5-210x148-couche-90g-250-360imprimir;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;250;360imprimir;basico;40,99;6,26;47,25;57,1725;57,1725;9;10;VERDADERO;5€+IVA dto. En primera compra
+dipticos-diptico-cerrado-a5-210x148-couche-90g-500-360imprimir;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;500;360imprimir;basico;40,99;7,01;48;58,08;58,08;9;10;VERDADERO;5€+IVA dto. En primera compra
+dipticos-diptico-cerrado-a5-210x148-couche-90g-1000-360imprimir;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;1000;360imprimir;basico;52,99;8,51;61,5;74,415;74,415;9;10;VERDADERO;5€+IVA dto. En primera compra
+dipticos-diptico-cerrado-a5-210x148-couche-90g-250-soloimprenta;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;250;Soloimprenta;basico;80;;80;96,8;96,8;9;10;VERDADERO;
+dipticos-diptico-cerrado-a5-210x148-couche-90g-500-soloimprenta;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;500;Soloimprenta;basico;82,54;;82,54;99,8734;99,8734;9;10;VERDADERO;
+dipticos-diptico-cerrado-a5-210x148-couche-90g-1000-soloimprenta;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;1000;Soloimprenta;basico;100;;100;121;121;9;10;VERDADERO;
+dipticos-diptico-cerrado-a5-210x148-couche-90g-250-print24;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;250;Print24;basico;48,71;;48,71;58,9391;58,9391;7;8;VERDADERO;gramaje 115 gr.
+dipticos-diptico-cerrado-a5-210x148-couche-90g-500-print24;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;500;Print24;basico;55,46;;55,46;67,1066;67,1066;7;8;VERDADERO;gramaje 115 gr.
+dipticos-diptico-cerrado-a5-210x148-couche-90g-1000-print24;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;1000;Print24;basico;66,21;;66,21;80,1141;80,1141;7;8;VERDADERO;gramaje 115 gr.
+dipticos-diptico-cerrado-a5-210x148-couche-90g-250-helloprint;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;250;Helloprint;basico;38,99;4,99;43,98;53,2158;53,2158;9;10;VERDADERO;Envío gratis a partir de pedidos de 60 euros.
+dipticos-diptico-cerrado-a5-210x148-couche-90g-500-helloprint;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;500;Helloprint;basico;49,49;4,99;54,48;65,9208;65,9208;9;10;VERDADERO;Envío gratis a partir de pedidos de 60 euros.
+dipticos-diptico-cerrado-a5-210x148-couche-90g-1000-helloprint;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;1000;Helloprint;basico;60,99;;60,99;73,7979;73,7979;9;10;VERDADERO;Envío gratis a partir de pedidos de 60 euros.
+dipticos-diptico-cerrado-a5-210x148-couche-90g-250-onlineprinters;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;250;Onlineprinters;basico;47,91;;47,91;57,9711;57,9711;7;8;VERDADERO;gramaje 130 gr.
+dipticos-diptico-cerrado-a5-210x148-couche-90g-500-onlineprinters;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;500;Onlineprinters;basico;55,17;;55,17;66,7557;66,7557;7;8;VERDADERO;gramaje 130 gr.
+dipticos-diptico-cerrado-a5-210x148-couche-90g-1000-onlineprinters;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;1000;Onlineprinters;basico;57,63;;57,63;69,7323;69,7323;7;8;VERDADERO;gramaje 130 gr.
+dipticos-diptico-cerrado-a5-210x148-couche-90g-250-pixartprinting;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;250;Pixartprinting;premium;47,58;;47,58;57,5718;57,5718;7;8;VERDADERO;gramaje 100 gr. Atención: Elige formato A4 abierto
+dipticos-diptico-cerrado-a5-210x148-couche-90g-500-pixartprinting;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;500;Pixartprinting;premium;54,57;;54,57;66,0297;66,0297;7;8;VERDADERO;gramaje 100 gr. Atención: Elige formato A4 abierto
+dipticos-diptico-cerrado-a5-210x148-couche-90g-1000-pixartprinting;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;1000;Pixartprinting;premium;61,24;;61,24;74,1004;74,1004;7;8;VERDADERO;gramaje 100 gr. Atención: Elige formato A4 abierto
+dipticos-diptico-cerrado-a5-210x148-couche-90g-250-flyeralarm;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;250;Flyeralarm;premium;61,71;;61,71;74,6691;74,6691;7;8;VERDADERO;
+dipticos-diptico-cerrado-a5-210x148-couche-90g-500-flyeralarm;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;500;Flyeralarm;premium;70,68;;70,68;85,5228;85,5228;7;8;VERDADERO;
+dipticos-diptico-cerrado-a5-210x148-couche-90g-1000-flyeralarm;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;1000;Flyeralarm;premium;85,65;;85,65;103,6365;103,6365;7;8;VERDADERO;
+dipticos-diptico-cerrado-a5-210x148-couche-90g-250-exaprint;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;250;Exaprint;premium;;;0;0;0;;;FALSO;
+dipticos-diptico-cerrado-a5-210x148-couche-90g-500-exaprint;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;500;Exaprint;premium;58,7;;58,7;71,027;71,027;9;10;VERDADERO;
+dipticos-diptico-cerrado-a5-210x148-couche-90g-1000-exaprint;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;1000;Exaprint;premium;65,4;;65,4;79,134;79,134;9;10;VERDADERO;
+dipticos-diptico-cerrado-a5-210x148-couche-90g-250-truyol;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;250;Truyol;premium;60,1;;60,1;72,721;72,721;10;15;VERDADERO;gramaje 130 gr.
+dipticos-diptico-cerrado-a5-210x148-couche-90g-500-truyol;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;500;Truyol;premium;80,04;;80,04;96,8484;96,8484;10;15;VERDADERO;gramaje 130 gr.
+dipticos-diptico-cerrado-a5-210x148-couche-90g-1000-truyol;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;1000;Truyol;premium;112,29;;112,29;135,8709;135,8709;10;15;VERDADERO;gramaje 130 gr.
+dipticos-diptico-cerrado-a5-210x148-couche-90g-250-saxoprint;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;250;Saxoprint;premium;63,66;;63,66;77,0286;77,0286;7;8;VERDADERO;
+dipticos-diptico-cerrado-a5-210x148-couche-90g-500-saxoprint;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;500;Saxoprint;premium;68,45;;68,45;82,8245;82,8245;7;8;VERDADERO;
+dipticos-diptico-cerrado-a5-210x148-couche-90g-1000-saxoprint;Dipticos;Diptico  cerrado A5;210x148;Couche;90 g;;1000;Saxoprint;premium;69,7;;69,7;84,337;84,337;7;8;VERDADERO;
+dipticos-diptico-cerrado-a4-210x297-couche-90g-250-360imprimir;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;250;360imprimir;basico;97,99;7,96;105,95;128,1995;128,1995;9;10;VERDADERO;5€+IVA dto. En primera compra
+dipticos-diptico-cerrado-a4-210x297-couche-90g-500-360imprimir;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;500;360imprimir;basico;109;9,79;118,79;143,7359;143,7359;9;10;VERDADERO;5€+IVA dto. En primera compra
+dipticos-diptico-cerrado-a4-210x297-couche-90g-1000-360imprimir;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;1000;360imprimir;basico;139;13,68;152,68;184,7428;184,7428;9;10;VERDADERO;5€+IVA dto. En primera compra
+dipticos-diptico-cerrado-a4-210x297-couche-90g-250-soloimprenta;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;250;Soloimprenta;basico;103,17;;103,17;124,8357;124,8357;9;10;VERDADERO;
+dipticos-diptico-cerrado-a4-210x297-couche-90g-500-soloimprenta;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;500;Soloimprenta;basico;122,22;;122,22;147,8862;147,8862;9;10;VERDADERO;
+dipticos-diptico-cerrado-a4-210x297-couche-90g-1000-soloimprenta;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;1000;Soloimprenta;basico;150,79;;150,79;182,4559;182,4559;9;10;VERDADERO;
+dipticos-diptico-cerrado-a4-210x297-couche-90g-250-print24;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;250;Print24;basico;87,75;;87,75;106,1775;106,1775;7;8;VERDADERO;
+dipticos-diptico-cerrado-a4-210x297-couche-90g-500-print24;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;500;Print24;basico;98,55;;98,55;119,2455;119,2455;7;8;VERDADERO;
+dipticos-diptico-cerrado-a4-210x297-couche-90g-1000-print24;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;1000;Print24;basico;118,28;;118,28;143,1188;143,1188;7;8;VERDADERO;
+dipticos-diptico-cerrado-a4-210x297-couche-90g-250-helloprint;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;250;Helloprint;basico;78,99;;78,99;95,5779;95,5779;9;10;VERDADERO;Envío gratis a partir de pedidos de 60 euros.
+dipticos-diptico-cerrado-a4-210x297-couche-90g-500-helloprint;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;500;Helloprint;basico;87,99;;87,99;106,4679;106,4679;9;10;VERDADERO;Envío gratis a partir de pedidos de 60 euros.
+dipticos-diptico-cerrado-a4-210x297-couche-90g-1000-helloprint;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;1000;Helloprint;basico;103,99;;103,99;125,8279;125,8279;9;10;VERDADERO;Envío gratis a partir de pedidos de 60 euros.
+dipticos-diptico-cerrado-a4-210x297-couche-90g-250-onlineprinters;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;250;Onlineprinters;basico;70,99;;70,99;85,8979;85,8979;7;8;VERDADERO;gramaje 130 gr.
+dipticos-diptico-cerrado-a4-210x297-couche-90g-500-onlineprinters;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;500;Onlineprinters;basico;87,78;;87,78;106,2138;106,2138;7;8;VERDADERO;gramaje 130 gr.
+dipticos-diptico-cerrado-a4-210x297-couche-90g-1000-onlineprinters;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;1000;Onlineprinters;basico;106,18;;106,18;128,4778;128,4778;7;8;VERDADERO;gramaje 130 gr.
+dipticos-diptico-cerrado-a4-210x297-couche-90g-250-pixartprinting;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;250;Pixartprinting;premium;80,1;;80,1;96,921;96,921;7;8;VERDADERO;gramaje 100 gr. Atención: Elige formato A3 abierto
+dipticos-diptico-cerrado-a4-210x297-couche-90g-500-pixartprinting;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;500;Pixartprinting;premium;88,16;;88,16;106,6736;106,6736;7;8;VERDADERO;gramaje 100 gr. Atención: Elige formato A3 abierto
+dipticos-diptico-cerrado-a4-210x297-couche-90g-1000-pixartprinting;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;1000;Pixartprinting;premium;102,79;;102,79;124,3759;124,3759;7;8;VERDADERO;gramaje 100 gr. Atención: Elige formato A3 abierto
+dipticos-diptico-cerrado-a4-210x297-couche-90g-250-flyeralarm;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;250;Flyeralarm;premium;94,76;;94,76;114,6596;114,6596;7;8;VERDADERO;
+dipticos-diptico-cerrado-a4-210x297-couche-90g-500-flyeralarm;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;500;Flyeralarm;premium;107,75;;107,75;130,3775;130,3775;7;8;VERDADERO;
+dipticos-diptico-cerrado-a4-210x297-couche-90g-1000-flyeralarm;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;1000;Flyeralarm;premium;136,08;;136,08;164,6568;164,6568;7;8;VERDADERO;
+dipticos-diptico-cerrado-a4-210x297-couche-90g-250-exaprint;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;250;Exaprint;premium;;;0;0;0;;;FALSO;
+dipticos-diptico-cerrado-a4-210x297-couche-90g-500-exaprint;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;500;Exaprint;premium;85;;85;102,85;102,85;9;10;VERDADERO;
+dipticos-diptico-cerrado-a4-210x297-couche-90g-1000-exaprint;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;1000;Exaprint;premium;101,4;;101,4;122,694;122,694;9;10;VERDADERO;
+dipticos-diptico-cerrado-a4-210x297-couche-90g-250-truyol;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;250;Truyol;premium;80,04;;80,04;96,8484;96,8484;10;15;VERDADERO;gramaje 130 gr.
+dipticos-diptico-cerrado-a4-210x297-couche-90g-500-truyol;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;500;Truyol;premium;11,73;;11,73;14,1933;14,1933;10;15;VERDADERO;gramaje 130 gr.
+dipticos-diptico-cerrado-a4-210x297-couche-90g-1000-truyol;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;1000;Truyol;premium;154,97;;154,97;187,5137;187,5137;10;15;VERDADERO;gramaje 130 gr.
+dipticos-diptico-cerrado-a4-210x297-couche-90g-250-saxoprint;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;250;Saxoprint;premium;73,04;;73,04;88,3784;88,3784;7;8;VERDADERO;
+dipticos-diptico-cerrado-a4-210x297-couche-90g-500-saxoprint;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;500;Saxoprint;premium;81,17;;81,17;98,2157;98,2157;7;8;VERDADERO;
+dipticos-diptico-cerrado-a4-210x297-couche-90g-1000-saxoprint;Dipticos;Diptico  cerrado A4;210x297;Couche;90 g;;1000;Saxoprint;premium;96,52;;96,52;116,7892;116,7892;7;8;VERDADERO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-250-360imprimir;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;250;360imprimir;basico;45,49;6,01;51,5;62,315;62,315;9;10;VERDADERO;Formato 210x99 mm. 5€+IVA dto. En primera compra
+dipticos-diptico-cerrado-dl-210x105-couche-90g-500-360imprimir;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;500;360imprimir;basico;48,49;6,51;55;66,55;66,55;9;10;VERDADERO;Formato 210x99 mm. 5€+IVA dto. En primera compra
+dipticos-diptico-cerrado-dl-210x105-couche-90g-1000-360imprimir;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;1000;360imprimir;basico;61,49;7,51;69;83,49;83,49;9;10;VERDADERO;Formato 210x99 mm. 5€+IVA dto. En primera compra
+dipticos-diptico-cerrado-dl-210x105-couche-90g-250-soloimprenta;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;250;Soloimprenta;basico;63,33;;63,33;76,6293;76,6293;9;10;VERDADERO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-500-soloimprenta;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;500;Soloimprenta;basico;66,67;;66,67;80,6707;80,6707;9;10;VERDADERO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-1000-soloimprenta;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;1000;Soloimprenta;basico;73,33;;73,33;88,7293;88,7293;9;10;VERDADERO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-250-print24;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;250;Print24;basico;37,33;;37,33;45,1693;45,1693;7;8;VERDADERO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-500-print24;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;500;Print24;basico;41,83;;41,83;50,6143;50,6143;7;8;VERDADERO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-1000-print24;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;1000;Print24;basico;48,31;;48,31;58,4551;58,4551;7;8;VERDADERO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-250-helloprint;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;250;Helloprint;basico;38,49;4,99;43,48;52,6108;52,6108;7;8;VERDADERO;Envío gratis a partir de pedidos de 60 euros.
+dipticos-diptico-cerrado-dl-210x105-couche-90g-500-helloprint;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;500;Helloprint;basico;48,49;4,99;53,48;64,7108;64,7108;7;8;VERDADERO;Envío gratis a partir de pedidos de 60 euros.
+dipticos-diptico-cerrado-dl-210x105-couche-90g-1000-helloprint;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;1000;Helloprint;basico;56,99;;56,99;68,9579;68,9579;7;8;VERDADERO;Envío gratis a partir de pedidos de 60 euros.
+dipticos-diptico-cerrado-dl-210x105-couche-90g-250-onlineprinters;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;250;Onlineprinters;basico;37,28;;37,28;45,1088;45,1088;7;8;VERDADERO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-500-onlineprinters;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;500;Onlineprinters;basico;40,86;;40,86;49,4406;49,4406;7;8;VERDADERO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-1000-onlineprinters;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;1000;Onlineprinters;basico;49,98;;49,98;60,4758;60,4758;7;8;VERDADERO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-250-pixartprinting;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;250;Pixartprinting;premium;;;0;0;0;;;FALSO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-500-pixartprinting;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;500;Pixartprinting;premium;;;0;0;0;;;FALSO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-1000-pixartprinting;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;1000;Pixartprinting;premium;;;0;0;0;;;FALSO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-250-flyeralarm;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;250;Flyeralarm;premium;55,3;;55,3;66,913;66,913;7;8;VERDADERO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-500-flyeralarm;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;500;Flyeralarm;premium;59,06;;59,06;71,4626;71,4626;7;8;VERDADERO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-1000-flyeralarm;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;1000;Flyeralarm;premium;66,9;;66,9;80,949;80,949;7;8;VERDADERO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-250-exaprint;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;250;Exaprint;premium;;;0;0;0;;;FALSO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-500-exaprint;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;500;Exaprint;premium;;;0;0;0;;;FALSO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-1000-exaprint;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;1000;Exaprint;premium;;;0;0;0;;;FALSO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-250-truyol;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;250;Truyol;premium;;;0;0;0;;;FALSO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-500-truyol;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;500;Truyol;premium;;;0;0;0;;;FALSO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-1000-truyol;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;1000;Truyol;premium;;;0;0;0;;;FALSO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-250-saxoprint;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;250;Saxoprint;premium;63,66;;63,66;77,0286;77,0286;7;8;VERDADERO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-500-saxoprint;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;500;Saxoprint;premium;68,45;;68,45;82,8245;82,8245;7;8;VERDADERO;
+dipticos-diptico-cerrado-dl-210x105-couche-90g-1000-saxoprint;Dipticos;Diptico  cerrado DL;210x105;Couche;90 g;;1000;Saxoprint;premium;69,7;;69,7;84,337;84,337;7;8;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-1-360imprimir;Roll Up;Roll Up basico;850x2000;;;estructura incluida;1;360imprimir;basico;33,19;6,18;39,37;47,6377;47,6377;14;15;VERDADERO;5€+IVA dto. En primera compra
+roll-up-roll-up-basico-850x2000-estructura-incluida-2-360imprimir;Roll Up;Roll Up basico;850x2000;;;estructura incluida;2;360imprimir;basico;60,99;8,94;69,93;84,6153;84,6153;9;10;VERDADERO;5€+IVA dto. En primera compra
+roll-up-roll-up-basico-850x2000-estructura-incluida-3-360imprimir;Roll Up;Roll Up basico;850x2000;;;estructura incluida;3;360imprimir;basico;86,99;12,25;99,24;120,0804;120,0804;9;10;VERDADERO;5€+IVA dto. En primera compra
+roll-up-roll-up-basico-850x2000-estructura-incluida-1-soloimprenta;Roll Up;Roll Up basico;850x2000;;;estructura incluida;1;Soloimprenta;basico;49,9;;49,9;60,379;60,379;10;15;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-2-soloimprenta;Roll Up;Roll Up basico;850x2000;;;estructura incluida;2;Soloimprenta;basico;;;0;0;0;;;FALSO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-3-soloimprenta;Roll Up;Roll Up basico;850x2000;;;estructura incluida;3;Soloimprenta;basico;;;0;0;0;;;FALSO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-1-print24;Roll Up;Roll Up basico;850x2000;;;estructura incluida;1;Print24;basico;48,4;;48,4;58,564;58,564;7;8;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-2-print24;Roll Up;Roll Up basico;850x2000;;;estructura incluida;2;Print24;basico;91,07;;91,07;110,1947;110,1947;7;8;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-3-print24;Roll Up;Roll Up basico;850x2000;;;estructura incluida;3;Print24;basico;133,73;;133,73;161,8133;161,8133;7;8;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-1-helloprint;Roll Up;Roll Up basico;850x2000;;;estructura incluida;1;Helloprint;basico;36,99;;36,99;44,7579;44,7579;7;8;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-2-helloprint;Roll Up;Roll Up basico;850x2000;;;estructura incluida;2;Helloprint;basico;71,99;;71,99;87,1079;87,1079;7;8;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-3-helloprint;Roll Up;Roll Up basico;850x2000;;;estructura incluida;3;Helloprint;basico;105,99;;105,99;128,2479;128,2479;7;8;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-1-onlineprinters;Roll Up;Roll Up basico;850x2000;;;estructura incluida;1;Onlineprinters;basico;38,64;;38,64;46,7544;46,7544;7;8;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-2-onlineprinters;Roll Up;Roll Up basico;850x2000;;;estructura incluida;2;Onlineprinters;basico;68,4;;68,4;82,764;82,764;7;8;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-3-onlineprinters;Roll Up;Roll Up basico;850x2000;;;estructura incluida;3;Onlineprinters;basico;102,15;;102,15;123,6015;123,6015;7;8;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-1-pixartprinting;Roll Up;Roll Up basico;850x2000;;;estructura incluida;1;Pixartprinting;premium;53;;53;64,13;64,13;6;7;VERDADERO;Selecciona montaje "si"
+roll-up-roll-up-basico-850x2000-estructura-incluida-2-pixartprinting;Roll Up;Roll Up basico;850x2000;;;estructura incluida;2;Pixartprinting;premium;106;;106;128,26;128,26;6;7;VERDADERO;Selecciona montaje "si"
+roll-up-roll-up-basico-850x2000-estructura-incluida-3-pixartprinting;Roll Up;Roll Up basico;850x2000;;;estructura incluida;3;Pixartprinting;premium;159;;159;192,39;192,39;6;7;VERDADERO;Selecciona montaje "si"
+roll-up-roll-up-basico-850x2000-estructura-incluida-1-flyeralarm;Roll Up;Roll Up basico;850x2000;;;estructura incluida;1;Flyeralarm;premium;66,79;;66,79;80,8159;80,8159;6;7;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-2-flyeralarm;Roll Up;Roll Up basico;850x2000;;;estructura incluida;2;Flyeralarm;premium;121,4;;121,4;146,894;146,894;6;7;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-3-flyeralarm;Roll Up;Roll Up basico;850x2000;;;estructura incluida;3;Flyeralarm;premium;176,72;;176,72;213,8312;213,8312;6;7;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-1-exaprint;Roll Up;Roll Up basico;850x2000;;;estructura incluida;1;Exaprint;premium;45;;45;54,45;54,45;6;7;VERDADERO;Formato 840x2040 mm.
+roll-up-roll-up-basico-850x2000-estructura-incluida-2-exaprint;Roll Up;Roll Up basico;850x2000;;;estructura incluida;2;Exaprint;premium;78,2;;78,2;94,622;94,622;6;7;VERDADERO;Formato 840x2040 mm.
+roll-up-roll-up-basico-850x2000-estructura-incluida-3-exaprint;Roll Up;Roll Up basico;850x2000;;;estructura incluida;3;Exaprint;premium;111,8;;111,8;135,278;135,278;6;7;VERDADERO;Formato 840x2040 mm.
+roll-up-roll-up-basico-850x2000-estructura-incluida-1-truyol;Roll Up;Roll Up basico;850x2000;;;estructura incluida;1;Truyol;premium;48,32;;48,32;58,4672;58,4672;10;15;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-2-truyol;Roll Up;Roll Up basico;850x2000;;;estructura incluida;2;Truyol;premium;84,05;;84,05;101,7005;101,7005;10;15;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-3-truyol;Roll Up;Roll Up basico;850x2000;;;estructura incluida;3;Truyol;premium;;;0;0;0;;;FALSO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-1-saxoprint;Roll Up;Roll Up basico;850x2000;;;estructura incluida;1;Saxoprint;premium;50,74;;50,74;61,3954;61,3954;9;10;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-2-saxoprint;Roll Up;Roll Up basico;850x2000;;;estructura incluida;2;Saxoprint;premium;101,39;;101,39;122,6819;122,6819;9;10;VERDADERO;
+roll-up-roll-up-basico-850x2000-estructura-incluida-3-saxoprint;Roll Up;Roll Up basico;850x2000;;;estructura incluida;3;Saxoprint;premium;152,07;;152,07;184,0047;184,0047;9;10;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-1-360imprimir;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;1;360imprimir;basico;72,04;7,28;79,32;95,9772;95,9772;15;20;VERDADERO;Formato 1000x2060 mm. 5€+IVA dto. En primera compra
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-2-360imprimir;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;2;360imprimir;basico;135,93;10,84;146,77;177,5917;177,5917;15;20;VERDADERO;Formato 1000x2060 mm. 5€+IVA dto. En primera compra
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-3-360imprimir;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;3;360imprimir;basico;195,04;13,95;208,99;252,8779;252,8779;15;20;VERDADERO;Formato 1000x2060 mm. 5€+IVA dto. En primera compra
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-1-soloimprenta;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;1;Soloimprenta;basico;85,49;;85,49;103,4429;103,4429;;;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-2-soloimprenta;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;2;Soloimprenta;basico;;;0;0;0;;;FALSO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-3-soloimprenta;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;3;Soloimprenta;basico;;;0;0;0;;;FALSO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-1-print24;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;1;Print24;basico;114,52;;114,52;138,5692;138,5692;7;8;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-2-print24;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;2;Print24;basico;223,29;;223,29;270,1809;270,1809;7;8;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-3-print24;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;3;Print24;basico;332,07;;332,07;401,8047;401,8047;7;8;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-1-helloprint;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;1;Helloprint;basico;52,99;;52,99;64,1179;64,1179;7;8;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-2-helloprint;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;2;Helloprint;basico;98,99;;98,99;119,7779;119,7779;7;8;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-3-helloprint;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;3;Helloprint;basico;140,99;;140,99;170,5979;170,5979;7;8;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-1-onlineprinters;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;1;Onlineprinters;basico;59,95;;59,95;72,5395;72,5395;6;7;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-2-onlineprinters;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;2;Onlineprinters;basico;118,85;;118,85;143,8085;143,8085;6;7;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-3-onlineprinters;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;3;Onlineprinters;basico;177,76;;177,76;215,0896;215,0896;6;7;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-1-pixartprinting;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;1;Pixartprinting;premium;68,85;;68,85;83,3085;83,3085;7;8;VERDADERO;Selecciona montaje "si"
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-2-pixartprinting;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;2;Pixartprinting;premium;137,7;;137,7;166,617;166,617;7;8;VERDADERO;Selecciona montaje "si"
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-3-pixartprinting;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;3;Pixartprinting;premium;206,55;;206,55;249,9255;249,9255;7;8;VERDADERO;Selecciona montaje "si"
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-1-flyeralarm;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;1;Flyeralarm;premium;73,52;;73,52;88,9592;88,9592;6;7;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-2-flyeralarm;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;2;Flyeralarm;premium;138,6;;138,6;167,706;167,706;6;7;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-3-flyeralarm;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;3;Flyeralarm;premium;202,66;;202,66;245,2186;245,2186;6;7;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-1-exaprint;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;1;Exaprint;premium;125,6;;125,6;151,976;151,976;6;7;VERDADERO;Formato 1000x2070 mm.
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-2-exaprint;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;2;Exaprint;premium;260,9;;260,9;315,689;315,689;6;7;VERDADERO;Formato 1000x2070 mm.
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-3-exaprint;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;3;Exaprint;premium;389;;389;470,69;470,69;6;7;VERDADERO;Formato 1000x2070 mm.
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-1-truyol;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;1;Truyol;premium;72,83;;72,83;88,1243;88,1243;10;15;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-2-truyol;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;2;Truyol;premium;132,81;;132,81;160,7001;160,7001;10;15;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-3-truyol;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;3;Truyol;premium;;;0;0;0;;;FALSO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-1-saxoprint;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;1;Saxoprint;premium;89,74;;89,74;108,5854;108,5854;9;10;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-2-saxoprint;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;2;Saxoprint;premium;179,42;;179,42;217,0982;217,0982;9;10;VERDADERO;
+roll-up-roll-up-ancho-1000x2000-estructura-incluida-3-saxoprint;Roll Up;Roll Up ancho;1000x2000;;;estructura incluida;3;Saxoprint;premium;269,14;;269,14;325,6594;325,6594;9;10;VERDADERO;
