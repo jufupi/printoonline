@@ -27,13 +27,11 @@ export async function GET(request: NextRequest) {
       .select('formato_mm, cantidad, acabado, tipo_de_carpeta')
      .ilike('categoria', `%${categoria.trim()}%`)
 
-    if (error) {
-      console.error('Error en consulta Supabase:', error);
-      return NextResponse.json(
-        { error: 'Error en la consulta a la base de datos' },
-        { status: 500 }
-      );
-    }
+console.error('Error en consulta Supabase:', error);
+return NextResponse.json(
+  { error: 'DB query failed', details: error },
+  { status: 500 }
+);
 
     if (!data || data.length === 0) {
       return NextResponse.json({
