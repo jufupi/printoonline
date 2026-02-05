@@ -59,7 +59,7 @@ export async function GET(request: NextRequest) {
   tipos_carpeta: [],
 };
 
-    if (categoria === 'Carpetas') {
+    if (categoria.toLowerCase().includes('carpeta')) {
       const tiposCarpeta = Array.from(new Set(data.map((d: any) => d.tipo_de_carpeta).filter((t: any) => t)));
       options.tipos_carpeta = tiposCarpeta;
     }
