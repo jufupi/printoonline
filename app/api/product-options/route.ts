@@ -25,7 +25,7 @@ export async function GET(request: NextRequest) {
     const { data, error } = await supabase
       .from('productos_imprentas')
       .select('formato_mm, cantidad, acabado, tipo_de_carpeta')
-     .ilike('categoria', categoria.trim())
+     .ilike('categoria', `%${categoria.trim()}%`)
       .eq('disponible', true);
 
     if (error) {
