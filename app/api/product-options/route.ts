@@ -52,11 +52,12 @@ export async function GET(request: NextRequest) {
     const cantidades = Array.from(new Set(data.map(d => d.cantidad))).sort((a, b) => a - b);
     const acabados = Array.from(new Set(data.map(d => d.acabado).filter(a => a)));
 
-    const options: ProductOptions = {
-      formatos,
-      cantidades,
-      acabados,
-    };
+   const options: ProductOptions = {
+  formatos,
+  cantidades,
+  acabados,
+  tipos_carpeta: [],
+};
 
     if (categoria === 'Carpetas') {
       const tiposCarpeta = Array.from(new Set(data.map((d: any) => d.tipo_de_carpeta).filter((t: any) => t)));
